@@ -1,0 +1,31 @@
+{
+    "ru" : [
+        {
+            "textRu": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+            "authorRu": "Стив Макконнелл"
+        },
+        {
+            "textRu": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+            "authorRu": "Артур Блох. Законы Мэрфи"
+        },
+        {
+            "textRu": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+            "authorRu": "И. Берард"
+        }
+            ],
+
+    "enUS" : [
+        {
+            "textEn": "Write code to be accompanied by a violent psychopath who knows where you live",
+            "authorEn": "Steve McConnell"
+        },
+        {
+            "textEn": "Program complexity develops until it exceeds the programmer's ability",
+            "authorEn": "Arthur Bloch. Murphy's Laws"
+        },
+        {
+            "textEn": "It's very easy to walk on the water and products of the program, following the ToR... if they are frozen",
+            "authorEn": "I. Berard"
+        }
+    ]
+}
